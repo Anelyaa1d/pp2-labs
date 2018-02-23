@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anelbelgibaeva/lab1pp2/Prime/Prime/Prime.csproj",
+      "projectUniqueName": "/Users/anelbelgibaeva/Desktop/lab1pp2/Prime/Prime/Prime.csproj",
       "projectName": "Prime",
-      "projectPath": "/Users/anelbelgibaeva/lab1pp2/Prime/Prime/Prime.csproj",
+      "projectPath": "/Users/anelbelgibaeva/Desktop/lab1pp2/Prime/Prime/Prime.csproj",
       "packagesPath": "/Users/anelbelgibaeva/.nuget/packages/",
-      "outputPath": "/Users/anelbelgibaeva/lab1pp2/Prime/Prime/obj",
+      "outputPath": "/Users/anelbelgibaeva/Desktop/lab1pp2/Prime/Prime/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -9,3 +9,14 @@
 /Users/anelbelgibaeva/lab1pp2/circle/circle/obj/Debug/netcoreapp2.0/rectangle.AssemblyInfo.cs
 /Users/anelbelgibaeva/lab1pp2/circle/circle/obj/Debug/netcoreapp2.0/rectangle.dll
 /Users/anelbelgibaeva/lab1pp2/circle/circle/obj/Debug/netcoreapp2.0/rectangle.pdb
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/bin/Debug/netcoreapp2.0/rectangle.deps.json
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/bin/Debug/netcoreapp2.0/rectangle.runtimeconfig.json
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/bin/Debug/netcoreapp2.0/rectangle.runtimeconfig.dev.json
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/bin/Debug/netcoreapp2.0/rectangle.dll
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/bin/Debug/netcoreapp2.0/rectangle.pdb
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/obj/Debug/netcoreapp2.0/rectangle.csprojResolveAssemblyReference.cache
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/obj/Debug/netcoreapp2.0/rectangle.csproj.CoreCompileInputs.cache
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/obj/Debug/netcoreapp2.0/rectangle.AssemblyInfoInputs.cache
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/obj/Debug/netcoreapp2.0/rectangle.AssemblyInfo.cs
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/obj/Debug/netcoreapp2.0/rectangle.dll
+/Users/anelbelgibaeva/Desktop/lab1pp2/rectangle/rectangle/obj/Debug/netcoreapp2.0/rectangle.pdb

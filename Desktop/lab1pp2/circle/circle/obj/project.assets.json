@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anelbelgibaeva/lab1pp2/circle/circle/circle.csproj",
+      "projectUniqueName": "/Users/anelbelgibaeva/Desktop/lab1pp2/circle/circle/circle.csproj",
       "projectName": "circle",
-      "projectPath": "/Users/anelbelgibaeva/lab1pp2/circle/circle/circle.csproj",
+      "projectPath": "/Users/anelbelgibaeva/Desktop/lab1pp2/circle/circle/circle.csproj",
       "packagesPath": "/Users/anelbelgibaeva/.nuget/packages/",
-      "outputPath": "/Users/anelbelgibaeva/lab1pp2/circle/circle/obj",
+      "outputPath": "/Users/anelbelgibaeva/Desktop/lab1pp2/circle/circle/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

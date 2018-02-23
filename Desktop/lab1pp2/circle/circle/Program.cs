@@ -11,19 +11,19 @@ namespace circle
             Area = 0;
             Length = 0;
         }
-        public double FindArea(double r)
+        public double FindArea()
         {
             return Math.PI * r * r;
         }
-        public double FindLength(double r)
+        public double FindLength()
         {
             return Math.PI * r * 2;
         }
         public Circle(double r)
         {
             Radius = r;
-            Area = FindArea(r);
-            Length = FindLength(r);
+            //Area = FindArea(r);
+            //Length = FindLength(r);
         }
         public override string ToString()
         {
@@ -36,6 +36,7 @@ class Program
     static void Main(string[] args)
     {
         Circle C = new Circle(3);
+            Console
             Console.WriteLine(C);
     }
 }

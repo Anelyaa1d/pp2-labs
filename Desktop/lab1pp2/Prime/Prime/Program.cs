@@ -21,4 +21,3 @@ namespace Lab1
         }
     }
 }
-s

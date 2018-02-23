@@ -12,20 +12,20 @@ namespace rectangle
             Area = 0;
             Perimeter = 0;
         }
-        public float FindArea(float h, float w )
+        public float FindArea()
         {
-            return h * w;
+            return Height * Width;
         }
         public float FindPerimeter(float h,float w)
         {
-            return (h + w) * 2;
+            return (Height + Width) * 2;
         }
         public Rectangle(float h,float w)
         {
             Height = h;
             Width = w;
-            Area = FindArea(h, w);
-            Perimeter = FindPerimeter(h, w);
+            //Area = FindArea(h, w);
+            //Perimeter = FindPerimeter(h, w);
         }
         public override string ToString()
         {
@@ -40,6 +40,7 @@ namespace rectangle
         static void Main(string[] args)
         {
             Rectangle R = new Rectangle(2,4);
+            Console.WriteLine(R.FindArea());
             Console.WriteLine(R.ToString());
         }
     }
