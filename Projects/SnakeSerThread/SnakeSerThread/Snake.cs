@@ -39,12 +39,12 @@ namespace SnakeSerThread
                 Console.WriteLine("game over");
                 Console.ReadKey();
                 Game.snake = new Snake();
-                Game level = 1;
+                Game.level = 1;
                 Game.wall = new Wall(Game.level);
             }
             if (Eats())
             {
-                Game.Food.FindPosition();
+                Game.food.FindPosition();
                 Game.counter++;
                 Game.username.score = Game.counter;
                 if(Game.counter % 5 == 0)
@@ -95,12 +95,12 @@ namespace SnakeSerThread
             Console.WriteLine("Score:" + Game.counter);
             Console.SetCursorPosition(10, 0);
             Console.WriteLine("Level:" + Game.level + " " + "Username:" + Game.username.username1);
-            Console.SetCursorPosition(0, 41);
+            Console.SetCursorPosition(0, 50);
             Console.WriteLine("if you want to stop, press S");
 
             for (int i = 0; i < body.Count; i++)
             {
-                if(i = 0)
+                if (i == 0)
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;
                 }

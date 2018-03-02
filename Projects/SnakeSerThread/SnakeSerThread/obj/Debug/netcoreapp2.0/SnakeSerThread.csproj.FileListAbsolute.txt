@@ -1,0 +1,11 @@
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/obj/Debug/netcoreapp2.0/SnakeSerThread.csprojResolveAssemblyReference.cache
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/obj/Debug/netcoreapp2.0/SnakeSerThread.csproj.CoreCompileInputs.cache
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/obj/Debug/netcoreapp2.0/SnakeSerThread.AssemblyInfoInputs.cache
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/obj/Debug/netcoreapp2.0/SnakeSerThread.AssemblyInfo.cs
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/bin/Debug/netcoreapp2.0/SnakeSerThread.deps.json
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/bin/Debug/netcoreapp2.0/SnakeSerThread.runtimeconfig.json
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/bin/Debug/netcoreapp2.0/SnakeSerThread.runtimeconfig.dev.json
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/bin/Debug/netcoreapp2.0/SnakeSerThread.dll
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/bin/Debug/netcoreapp2.0/SnakeSerThread.pdb
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/obj/Debug/netcoreapp2.0/SnakeSerThread.dll
+/Users/anelbelgibaeva/Projects/SnakeSerThread/SnakeSerThread/obj/Debug/netcoreapp2.0/SnakeSerThread.pdb
