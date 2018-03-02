@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{F2D3E12A-E323-458D-B5D1-C5213CBA7A96}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{C116C649-142D-4FA5-B9A6-884EB5014225}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="far/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="42" Column="63" />
+      <File FileName="far/Program.cs" Line="18" Column="68" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
